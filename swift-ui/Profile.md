@@ -14,6 +14,7 @@ Brawhalla
 Racing cars
 Driving
 Music
+Contributing
 
 ### Development
 
